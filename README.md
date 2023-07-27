@@ -120,9 +120,9 @@ Then reposit the same to github using the git commands.
 ## Output:
 ![IMAGE MAPS](imagemaps2.png)
 ![KANGRATHEKIYA TEMPLE](kangrathekiyamosque.png)
-![NAGESWARAN TEMPLE](nageswarankovil.png)
+![NAGESWARAN TEMPLE](nageswarantemple.png)
 ![STAR BIRIYANI](starbiriyani.png)
-![RAHAMANIYA BIRIYANI](rahanamiyabiriyani.png)
+![RAHAMANIYA BIRIYANI](rahamaniyabiriyani.png)
 ![RAJKAMAL CINEMAS](rkcinemas.png)
 ## Result:
 Thus the website is developed to display details about the places around my house.
